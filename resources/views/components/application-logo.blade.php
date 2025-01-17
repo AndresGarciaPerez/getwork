@@ -1,0 +1,1 @@
+<h1 class="text-4xl">Get<span class="font-bold">Work</span></h1>
