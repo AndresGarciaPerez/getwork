@@ -1,7 +1,7 @@
 <div class="bg-gray-100">
     <h2 class="text-2xl md:text-3xl text-gray-600 text-center font-extrabold mt-10 mb-10">Buscar y Filtrar Vacantes</h2>
 
-    <div class="max-w-7xl mx-auto">
+    <div class="max-w-7xl mx-auto"> 
         <form wire:submit.prevent='leerDatosFormulario'>
             <div class="md:grid md:grid-cols-3 gap-5">
                 <div class="mb-5">
